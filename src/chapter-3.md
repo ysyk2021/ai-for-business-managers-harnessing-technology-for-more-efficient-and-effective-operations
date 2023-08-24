@@ -1,5 +1,3 @@
-Chapter 3: Implementing AI in Decision Making and Strategy Development
-======================================================================
 
 Artificial Intelligence (AI) is increasingly being used in decision making and strategy development to improve efficiency, productivity, and profitability. This chapter will focus on how businesses can implement AI in decision making and strategy development through data analysis and insights.
 

@@ -1,5 +1,3 @@
-Automating Repetitive Tasks using AI
-==============================================================================================
 
 In today's fast-paced business environment, productivity and efficiency are critical components for success. Business managers are constantly on the lookout for ways to streamline operations, reduce costs, and increase profitability. One way to achieve these objectives is by leveraging Artificial Intelligence (AI) to automate repetitive tasks.
 

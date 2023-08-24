@@ -1,5 +1,3 @@
-Emerging Trends in AI for Business Operations
-============================================================================================================================
 
 As AI continues to evolve, there are many emerging trends and opportunities for AI-enabled business management. This chapter will focus on some of the most important trends and opportunities for AI in business operations.
 

@@ -1,5 +1,3 @@
-Chapter 6: Managing Risks and Compliance with AI
-================================================
 
 While AI can provide significant benefits to businesses, it also introduces new risks and compliance challenges. In this chapter, we will explore how AI can be used to manage these risks and ensure compliance with legal and regulatory requirements.
 
