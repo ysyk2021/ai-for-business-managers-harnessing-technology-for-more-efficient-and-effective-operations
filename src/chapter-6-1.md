@@ -1,5 +1,4 @@
-Chapter 8: Early Detection of Risks and Potential Threats with AI
-=================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore how AI can be used by business managers to detect risks and potential threats early on. By harnessing the power of AI technologies, businesses can proactively identify and mitigate risks, ensuring more efficient and effective operations.
 

@@ -1,5 +1,4 @@
-Chapter 10: Mitigating Risks and Ensuring Compliance
-====================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the importance of mitigating risks and ensuring compliance when harnessing AI for more efficient and effective business operations. As AI technologies become increasingly integrated into various aspects of businesses, managers must be proactive in identifying and addressing potential risks while adhering to legal and regulatory requirements.
 

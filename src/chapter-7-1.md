@@ -1,5 +1,4 @@
-Chapter 14: Importance of Ethical and Legal Guidelines for AI
-=============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the significance of ethical and legal guidelines for AI in business operations. As AI technologies continue to advance, it becomes increasingly crucial for business managers to uphold ethical standards and comply with legal requirements to ensure responsible and trustworthy use of AI.
 

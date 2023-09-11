@@ -1,5 +1,4 @@
-Chapter 12: Unlocking New Opportunities with AI
-===============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the vast opportunities that AI offers for business managers to drive innovation, gain a competitive edge, and unlock new possibilities. By harnessing the power of AI technologies, managers can discover hidden insights, optimize processes, create new products and services, and transform their organizations.
 

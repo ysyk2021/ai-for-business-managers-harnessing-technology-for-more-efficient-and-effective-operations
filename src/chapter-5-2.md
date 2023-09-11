@@ -1,5 +1,4 @@
-Chapter 8: AI-Driven Customer Segmentation and Targeting
-========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore how AI can empower business managers to enhance customer segmentation and targeting strategies. By harnessing the power of AI technologies, managers can gain deeper insights into their customer base, optimize marketing efforts, and improve overall customer engagement.
 

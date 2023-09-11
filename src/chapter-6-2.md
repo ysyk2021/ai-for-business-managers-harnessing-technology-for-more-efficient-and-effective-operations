@@ -1,5 +1,4 @@
-Chapter 5: AI-Driven Compliance Monitoring and Reporting
-========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the role of AI in compliance monitoring and reporting for business managers. The use of AI technologies can significantly enhance the efficiency and effectiveness of compliance processes, enabling businesses to stay compliant with regulations and industry standards.
 

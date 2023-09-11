@@ -1,5 +1,4 @@
-Chapter 12: Selecting the Right Tools for Your Business Needs
-=============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the process of selecting the right AI tools for your business needs. With a plethora of AI technologies available, choosing the most suitable tools can empower business managers to drive efficiency and effectiveness in their operations.
 
